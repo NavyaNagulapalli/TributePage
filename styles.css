@@ -1,5 +1,5 @@
 body{
-background-color:#eeeeee;
+background-color:#e0e0e0;
 font-family: Verdana, sans-serif;
 text-align:center;
 line-height:30px;
@@ -29,7 +29,7 @@ font-weight:bold;
 .centerli{
 text-align:center;
 padding-top:10px;
-background-color:#e0e0e0
+background-color:#eeeeee;
 }
 ul,ol{
 list-style:disc;
