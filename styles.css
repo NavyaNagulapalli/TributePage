@@ -3,6 +3,8 @@ background-color:#eeeeee;
 font-family: Verdana, sans-serif;
 text-align:center;
 line-height:30px;
+border:15px solid white;
+border-radius:5px;
 }
 h1{
 font-size:35px;
@@ -26,6 +28,8 @@ font-weight:bold;
 }
 .centerli{
 text-align:center;
+padding-top:10px;
+background-color:#e0e0e0
 }
 ul,ol{
 list-style:disc;
