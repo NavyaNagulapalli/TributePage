@@ -2,33 +2,35 @@ body{
 background-color:#e0e0e0;
 font-family: Verdana, sans-serif;
 text-align:center;
-line-height:30px;
+line-height:5.5vh;
 border:15px solid white;
 border-radius:5px;
+font-size:1em;
 }
 h1{
-font-size:35px;
+font-size:2em;
 }
 img{
 height:40%;
-width:100%;
+width:80%;
 max-width:1000px;
 max-height:900px;
+border:1em solid white;
 }
 figure{
-padding:10px;
-background-color:white;
-margin:30px;
+padding:2vh;
+
 }
 figcaption{
-padding-top:7px;
+padding-top:2vh;
+background-color:white;
 }
 span{
 font-weight:bold;
 }
 .centerli{
 text-align:center;
-padding-top:10px;
+padding-top:2vh;
 background-color:#eeeeee;
 }
 ul,ol{
